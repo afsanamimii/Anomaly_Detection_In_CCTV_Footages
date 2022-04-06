@@ -1,10 +1,5 @@
 # Anomaly_Detection_In_CCTV_Footages
 
-#Sample Output 
-
-
-https://user-images.githubusercontent.com/61627644/162011436-be638c60-52ba-4b04-a21b-c4dded3f5b10.mp4
-
 
 
 
