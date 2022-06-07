@@ -1,8 +1,9 @@
 # Anomaly_Detection_In_CCTV_Footages
 
+![Screenshot (491)](https://user-images.githubusercontent.com/61627644/172300208-2a3337c1-a9f7-4df1-8e54-028a760cf3be.png)
 
 
-https://user-images.githubusercontent.com/61627644/172299949-24ffa3ad-4887-431d-b8b2-753c5c1bdfd3.mp4
+
 
 
 
